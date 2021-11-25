@@ -15,6 +15,7 @@ Exercício prático proposto e elaborado na semana de Sprint  React da DevSuperi
 ###### Demonstração :arrow_forward:
 
 ------
+![printHome](https://user-images.githubusercontent.com/87131837/143379486-7f955b26-bb1c-4c27-9384-36c202ed829d.PNG)
 
 
 
@@ -22,13 +23,17 @@ Exercício prático proposto e elaborado na semana de Sprint  React da DevSuperi
 
 ------
 
-
+- [x] Responsivo
 
 ###### Tecnologias :hammer_and_wrench:
 
 ------
 
-
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [Java]
+* [Bootstrap](https://getbootstrap.com/)
 
 ######  Autor :pencil:
 
